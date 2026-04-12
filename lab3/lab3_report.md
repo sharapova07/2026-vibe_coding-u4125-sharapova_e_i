@@ -53,3 +53,5 @@ requests==2.31.0
 ![3-3](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/487406587b3337d22bdbbe27839ebc00cbcb2130/lab3/screenshots3/(3-3).png)
 
 **4. Тестирование бота:**   
+После деплоя была проверена работа бота в Telegram. Все функции исправны и стабильно работают.  
+![3-4](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/487406587b3337d22bdbbe27839ebc00cbcb2130/lab3/screenshots3/(3-3).png)
