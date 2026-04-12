@@ -156,7 +156,10 @@ python bot.py
 ![1-4](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/0ba83066dda43e88b8a0953c2034e4ed2fa8a905/lab1/screenshots/(1-4)%20%D0%9B%D0%B8%D1%88%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B.png)  
   
 2) Визуально непривлекательно оформленный текст: 
-  
+![1-5](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/8b5ca320baf7dfb3d229e77e6375e6c2876c1525/lab1/screenshots/(1-5)%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8%CC%86%201.png)
+
+Исправленный вариант:  
+![1-7](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/8b5ca320baf7dfb3d229e77e6375e6c2876c1525/lab1/screenshots/(1-7)%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8%CC%86%202.png)   
 
 Также для удобства было добавлено небольшое меню внизу бота, чтобы можно было быстро обратиться к наиболее важной информации, а именно к списку возможных для использования команд и расписанию:  
 ![1-6](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/9f031ca895ac6685157d40306a5068ccb2c6edab/lab1/screenshots/(1-6)%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%20%D0%B8%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5.png)  
