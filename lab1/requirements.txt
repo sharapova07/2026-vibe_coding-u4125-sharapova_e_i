@@ -1,0 +1,3 @@
+# Telegram Bot API: async + JobQueue (напоминания по расписанию)
+python-telegram-bot[job-queue]>=21.6,<22
+python-dotenv>=1.0.0
