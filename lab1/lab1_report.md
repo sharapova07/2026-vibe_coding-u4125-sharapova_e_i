@@ -159,7 +159,7 @@ python bot.py
 ![1-5](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/8b5ca320baf7dfb3d229e77e6375e6c2876c1525/lab1/screenshots/(1-5)%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8%CC%86%201.png)
 
 Исправленный вариант:  
-![1-7](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/8b5ca320baf7dfb3d229e77e6375e6c2876c1525/lab1/screenshots/(1-7)%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8%CC%86%202.png)   
+![1-7](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/4a176d8ef3d55d82d3ce4df2b68502e03fe77f50/lab1/screenshots/(1-7)%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8%CC%86%202.png)   
 
 Также для удобства было добавлено небольшое меню внизу бота, чтобы можно было быстро обратиться к наиболее важной информации, а именно к списку возможных для использования команд и расписанию:  
 ![1-6](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/9f031ca895ac6685157d40306a5068ccb2c6edab/lab1/screenshots/(1-6)%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%20%D0%B8%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5.png)  
@@ -171,6 +171,9 @@ python bot.py
 - созданный бот выполняет заявленный функционал
 - подготовлено видео-демо работы бота
 - написан отчет по проделанной работе с описанием выполненных задач и скриншотами
+
+### Видео-демо работы `Ally For Projects`  
+Видео-демо: [Лабораторная работа №1](https://drive.google.com/file/d/10-ZEOX4j_RINLOghE8CfKRcWpi2scNPH/view?usp=sharing) 
 
 ### Обратная связь  
 В ходе работы я столкнулась с трудностью в виде блокировки Telegram, из-за чего долгое время не могла запустить бота, однако после подключения хорошо работающего Vpn все заработало. Также были ограничения, связанные с окончанием лимита действия Cursor, что решилось благодаря регистрации с других аккаунтов. 
