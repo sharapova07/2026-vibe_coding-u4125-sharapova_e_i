@@ -2,7 +2,7 @@
 ФТМИ U4125: Шарапова Елизавета Игоревна  
 Почта: sharapova.liza2014@yandex.ru  
 Telagram: @Liza_Sharapova   
-Ссылка на бота: 
+Ссылка на бота: https://t.me/itmoftmi_SEI_bot 
 
 ## План изучения Vibe Coding: 
 
