@@ -74,6 +74,10 @@ requests==2.31.0
 Также было бы здорово, если при добавлении события можно было вернуться на предыдущий этап.
 ```
 Скриншоты использования:  
+![3-7](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/02572671c6b5b4627f3d64928a362247c57ffae5/lab3/screenshots3/(3-7).jpg)
+![3-9](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/02572671c6b5b4627f3d64928a362247c57ffae5/lab3/screenshots3/(3-9).jpg)
+![3-10](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/02572671c6b5b4627f3d64928a362247c57ffae5/lab3/screenshots3/(3-10).jpg)
+![3-11](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/02572671c6b5b4627f3d64928a362247c57ffae5/lab3/screenshots3/(3-11).jpg)
 
 **6. Улучшения на основе фидбека:**  
 На основе обратной связи было выявлено, что не хватает дополнительной кнопки `назад`, чтобы вернуться к предыдущему этапу при добавлении мероприятия через команду `/add_event`. В связи с чем через Cursor и redeploy в Railway был доработан бот `Ally For Projects`  
