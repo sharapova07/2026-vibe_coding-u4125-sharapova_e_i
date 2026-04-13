@@ -78,6 +78,21 @@ requests==2.31.0
 ![3-9](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/02572671c6b5b4627f3d64928a362247c57ffae5/lab3/screenshots3/(3-9).jpg)
 ![3-10](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/02572671c6b5b4627f3d64928a362247c57ffae5/lab3/screenshots3/(3-10).jpg)
 ![3-11](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/02572671c6b5b4627f3d64928a362247c57ffae5/lab3/screenshots3/(3-11).jpg)
+```
+Обратная связь от архитектора решения:  
+```
+Описание:  
+В ходе тестирования были испробованы все команды. Поскольку у АР нет прав администратора, при вводе `/commands` выводятся лишь доступные для всех авторизованных пользователей команды, как и было заложено в функциях бота. Также, поскольку в расписание не было добавлено мероприятий с АР, пользователю приходило сообщение "На завтра нет мероприятий, где вы указаны участником".
+
+Фидбек от АР:  
+```
+Бот очень прост и понятен в использовании, что хорошо.
+Кроме того понравился процесс авторизации, чтобы попасть в пространство проектной команды. 
+```
+Скриншоты использования:    
+![Тест 1](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/746eecbd4a81de90af98c2ac72fa722c06842b25/lab3/screenshots3/(3)%20%D0%A2%D0%B5%D1%81%D1%82%201.jpg)
+![Тест 2](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/746eecbd4a81de90af98c2ac72fa722c06842b25/lab3/screenshots3/(3)%20%D0%A2%D0%B5%D1%81%D1%82%202.JPG)
+![Тест 3](https://github.com/sharapova07/2026-vibe_coding-u4125-sharapova_e_i/blob/746eecbd4a81de90af98c2ac72fa722c06842b25/lab3/screenshots3/(3)%20%D0%A2%D0%B5%D1%81%D1%82%203.jpg)
 
 **6. Улучшения на основе фидбека:**  
 На основе обратной связи было выявлено, что не хватает дополнительной кнопки `назад`, чтобы вернуться к предыдущему этапу при добавлении мероприятия через команду `/add_event`. В связи с чем через Cursor и redeploy в Railway был доработан бот `Ally For Projects`  
